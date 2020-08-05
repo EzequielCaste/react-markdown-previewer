@@ -2,7 +2,7 @@
 
 ## Build a Build a Markdown Previewer
 
-[Demo](https://csb-uqvjn-nb3rj0z8w.vercel.app/)
+[Demo](https://react-markdown-preview.now.sh)
 
 ![Imgur](https://i.imgur.com/SWLPSj6.png)
 
